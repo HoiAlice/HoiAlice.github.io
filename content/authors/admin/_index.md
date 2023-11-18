@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Looking for PhD opportunities
       institution: Maybe Your University
-      year: 20??
+      year: ????
     - course: BSc in Applied Mathematics and Physics
       institution: Moscow Institute of Physics and Technology
       year: 2024
