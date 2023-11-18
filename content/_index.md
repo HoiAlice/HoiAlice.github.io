@@ -58,7 +58,7 @@ sections:
         - title: ML Research Scientist
           company: Yandex Research
           company_url: https://research.yandex.com/
-          company_logo: org-gc
+          company_logo: yandex
           location: Moscow, Russia
           date_start: '2023-11-14'
           date_end: ''
@@ -66,7 +66,7 @@ sections:
         - title: Research Intern
           company: KAUST, Optimization and Machine Learning Lab
           company_url: ''
-          company_logo: org-x
+          company_logo: kaust
           location: Saudi Arabia
           date_start: '2023-07-10'
           date_end: '2023-09-30'
@@ -76,7 +76,7 @@ sections:
         - title: ML Engineer Intern (NLP)
           company: Yandex
           company_url: ''
-          company_logo: org-x
+          company_logo: yandex
           location: Moscow, Russia
           date_start: '2022-03-08'
           date_end: '2022-07-05'
@@ -88,7 +88,7 @@ sections:
         - title: Researcher
           company: Terra Quantum AG
           company_url: https://terraquantum.swiss/
-          company_logo: org-x
+          company_logo: tq-black
           location: Moscow, Russia
           date_start: '2020-07-01'
           date_end: '2022-07-31'
@@ -114,7 +114,7 @@ sections:
         - date_end: ''
           date_start: '2019-07-16'
           description: Gold Medal
-          icon: edx
+          icon: ipho
           organization: Israel
           title: International Physics Olympiad
     design:
