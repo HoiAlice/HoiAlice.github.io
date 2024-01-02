@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Andrei Panferov
+title: Oleg I.Lavrin
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Andrei
-last_name: Panferov
+first_name: Oleg Igorevich
+last_name: Lavrin
 
 # Status emoji
 # status:
@@ -17,7 +17,7 @@ last_name: Panferov
 superuser: true
 
 # Role/position/tagline
-role: ML Research Scientist
+role: хто я?
 
 # Organizations/Affiliations to show in About widget
 organizations:
