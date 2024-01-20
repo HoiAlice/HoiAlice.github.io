@@ -17,7 +17,7 @@ last_name: Lavrin
 superuser: true
 
 # Role/position/tagline
-role: Это не я
+role: Всё ещё неактуальная информация
 
 # Organizations/Affiliations to show in About widget
 organizations:
