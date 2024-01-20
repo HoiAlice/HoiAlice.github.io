@@ -59,10 +59,10 @@ sections:
           company_url: https://terraquantum.swiss/
           company_logo: tq-black
           location: Moscow, Russia
-          date_start: '2020-07-01'
-          date_end: '2022-07-31'
+          date_start: '2019-07-01'
+          date_end: '2021-11-01'
           description: |2-
-            * Researched _quantum algorithms_ for business applications.
+            * \normalsize{developed a GRAPE \href{https://michaelgoerz.net/research/grape_june_2010_slides.pdf}{\raisebox{-0.1\height}\faExternalLink } based framework for quantum gate synthesis (python)}.
             * Developed an NMR spectra analysis toll, allowing for its use for for quantum computations.
             * Optimized _LLM_ deployment for chat assistant applications, reducing latency by 40%.
     design:
