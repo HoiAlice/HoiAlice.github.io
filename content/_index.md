@@ -43,9 +43,9 @@ sections:
             * Conducted research under the supervision of _Prof. Peter Richtárik_.
             * Derived theory and ran experiments on distributed optimization, focusing on communication compression.
         - title: ML Engineer Intern (NLP)
-          company: Yandex
+          company: Huawei RRI
           company_url: ''
-          company_logo: yandex
+          company_logo: huawei
           location: Moscow, Russia
           date_start: '2022-03-08'
           date_end: '2022-07-05'
