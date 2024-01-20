@@ -24,14 +24,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: ML Research Scientist
-          company: Yandex Research
-          company_url: https://research.yandex.com/
-          company_logo: yandex
+        - title: 
+          company: Вычислительный Центр
+          company_url: https://www.frccsc.ru/frc/ccas
+          company_logo: vc-ran
           location: Moscow, Russia
-          date_start: '2023-11-14'
+          date_start: '2024-02-01'
           date_end: ''
-          description: Working on Large Language Models compression.
+          description: А пока даже не знаю, в пнд поеду оформляться. 
 
         - title: QR Intern
           company: Eventum AI. Financial Markets Department.
