@@ -40,7 +40,7 @@ sections:
           location: California, USA.
           date_start: '2023-07-01'
           date_end: '2023-10-01'
-          description: |1-
+          description: |2-
             * Strategy work with quant trading.
 
         - title: Optimisation Scientist (Cloud Consolidation)
@@ -60,7 +60,7 @@ sections:
           location: Moscow, Russia
           date_start: '2019-07-01'
           date_end: '2021-11-01'
-          description: |3-
+          description: |2-
             * Developed a ML based framework for algorithmic cooling and quantum computations.
             * Investigated the application of tensor networks to combinatorial optimisation.
             * Implemented an amplitude maximum estimation algorithm for pure states via tensor trains.
