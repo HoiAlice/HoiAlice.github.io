@@ -93,7 +93,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lavrin.oi@phystech.edu'
+    link: 'mailto:lavrin.oi@phystech.edu'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/black_samorez
