@@ -25,7 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: 
-          company: Вычислительный Центр
+          company: Вычислительный Центр РАН
           company_url: https://www.frccsc.ru/frc/ccas
           company_logo: vc-ran
           location: Moscow, Russia
