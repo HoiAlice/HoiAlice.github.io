@@ -62,9 +62,9 @@ sections:
           date_start: '2019-07-01'
           date_end: '2021-11-01'
           description: |2-
-            * developed a [GRAPE](https://michaelgoerz.net/research/grape_june_2010_slides.pdf) based framework for quantum gate synthesis (python).
-            * Developed an NMR spectra analysis toll, allowing for its use for for quantum computations.
-            * Optimized _LLM_ deployment for chat assistant applications, reducing latency by 40%.
+            * Developed a [GRAPE](https://michaelgoerz.net/research/grape_june_2010_slides.pdf) based framework for algorithmic cooling and quantum computations.
+            * Investigated the application of tensor networks to combinatorial optimisation.
+            * Implemented an amplitude maximum estimation algorithm for pure states via tensor trains.
     design:
       columns: '1'
   - block: accomplishments
