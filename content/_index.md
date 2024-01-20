@@ -42,18 +42,16 @@ sections:
           description: |2-
             * Conducted research under the supervision of _Prof. Peter Richtárik_.
             * Derived theory and ran experiments on distributed optimization, focusing on communication compression.
-        - title: ML Engineer Intern (NLP)
+        - title: Optimization Scientist (Cloud Consolidation)
           company: Huawei RRI
           company_url: ''
           company_logo: RRI
           location: Moscow, Russia
-          date_start: '2022-03-08'
-          date_end: '2022-07-05'
+          date_start: '2022-08-01'
+          date_end: '2023-06-01'
           description: |2-
-            * Refactored and optimized an _LLM inference framework_ enabling abstract _tabular data_ insertion for efficient _map‑reduce_ inference.
-            * Derived theory and ran experiments on distributed optimization, focusing on communication compression.
-            * Increased test coverage of the _map‑reduce_ inference interface from 0 to 85% through rigorous unit testing.
-            * Took part in developing a _universal LLM benchmarking solution_ adapting _two datasets_ for it.
+            * Modified BalCon migration heuristic for higher dimensions of constrains.
+            * Derived few approaches for robust consolidation.
         - title: Researcher
           company: Terra Quantum AG
           company_url: https://terraquantum.swiss/
@@ -62,7 +60,7 @@ sections:
           date_start: '2019-07-01'
           date_end: '2021-11-01'
           description: |2-
-            * Developed a [GRAPE](https://michaelgoerz.net/research/grape_june_2010_slides.pdf) based framework for algorithmic cooling and quantum computations.
+            * Developed a ML based framework for algorithmic cooling and quantum computations.
             * Investigated the application of tensor networks to combinatorial optimisation.
             * Implemented an amplitude maximum estimation algorithm for pure states via tensor trains.
     design:
