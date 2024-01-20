@@ -62,7 +62,7 @@ sections:
           date_start: '2019-07-01'
           date_end: '2021-11-01'
           description: |2-
-            * \normalsize{developed a GRAPE \href{https://michaelgoerz.net/research/grape_june_2010_slides.pdf}{\raisebox{-0.1\height}\faExternalLink } based framework for quantum gate synthesis (python)}.
+            * developed a GRAPE $\href{https://michaelgoerz.net/research/grape_june_2010_slides.pdf}{\raisebox{-0.1\height}\faExternalLink}$ based framework for quantum gate synthesis (python).
             * Developed an NMR spectra analysis toll, allowing for its use for for quantum computations.
             * Optimized _LLM_ deployment for chat assistant applications, reducing latency by 40%.
     design:
