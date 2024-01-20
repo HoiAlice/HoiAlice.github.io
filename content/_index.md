@@ -45,7 +45,7 @@ sections:
         - title: ML Engineer Intern (NLP)
           company: Huawei RRI
           company_url: ''
-          company_logo: huawei
+          company_logo: RRI
           location: Moscow, Russia
           date_start: '2022-03-08'
           date_end: '2022-07-05'
