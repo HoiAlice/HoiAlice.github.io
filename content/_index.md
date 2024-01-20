@@ -32,16 +32,17 @@ sections:
           date_start: '2023-11-14'
           date_end: ''
           description: Working on Large Language Models compression.
-        - title: Research Intern
-          company: KAUST, Optimization and Machine Learning Lab
+
+        - title: QR Intern
+          company: Eventum AI. Financial Markets Department.
           company_url: ''
-          company_logo: kaust
-          location: Saudi Arabia
-          date_start: '2023-07-10'
-          date_end: '2023-09-30'
-          description: |2-
-            * Conducted research under the supervision of _Prof. Peter Richtárik_.
-            * Derived theory and ran experiments on distributed optimization, focusing on communication compression.
+          company_logo: eventum
+          location: California, USA.
+          date_start: '2023-07-01'
+          date_end: '2023-10-01'
+          description: |1-
+            * Strategy work with quant trading.
+
         - title: Optimisation Scientist (Cloud Consolidation)
           company: Huawei RRI
           company_url: 'https://career.huawei.ru/rri/'
@@ -59,7 +60,7 @@ sections:
           location: Moscow, Russia
           date_start: '2019-07-01'
           date_end: '2021-11-01'
-          description: |2-
+          description: |3-
             * Developed a ML based framework for algorithmic cooling and quantum computations.
             * Investigated the application of tensor networks to combinatorial optimisation.
             * Implemented an amplitude maximum estimation algorithm for pure states via tensor trains.
