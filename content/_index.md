@@ -45,7 +45,7 @@ sections:
 
         - title: Optimisation Scientist (Cloud Consolidation)
           company: Huawei RRI
-          company_url: 'https://career.huawei.ru/rri/'
+          company_url: 'https://career.huawei.ru/rri/en/'
           company_logo: RRI
           location: Moscow, Russia
           date_start: '2022-08-01'

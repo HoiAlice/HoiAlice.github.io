@@ -21,30 +21,27 @@ role: Всё ещё неактуальная информация
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Yandex Research
-    url: https://research.yandex.com/
+  - name: ВЦ РАН(пока нет)
+    url: https://www.frccsc.ru/frc/ccas
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural language processing, efficient deep learning and federated learning.
 
 # Interests to show in About widget
 interests:
-  - Natural Language Processing
-  - Efficient Deep Learning
-  - Federated Learning
+  - Mathematical Economics.
+  - Optimisation. Convex and not Very...
+  - Quantum Computing and Applications.
 
 # Education to show in About widget
 education:
   courses:
-    - course: Looking for PhD opportunities
-      institution: Maybe Your University
-      year: ????
-    - course: BSc in Applied Mathematics and Physics
-      institution: Moscow Institute of Physics and Technology
+    - course: MSc in Game Theory and Decision-Making Analysis. 
+      institution: Moscow Institute of Physics and Technology.
       year: 2024
-    - course: Machine Learning Engineer
-      institution: Yandex School of Data Analysis
-      year: 2023
+    - course: BSc in Qunatum Computing and Simulation.
+      institution: Moscow Institute of Physics and Technology.
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
