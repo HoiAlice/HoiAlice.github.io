@@ -31,7 +31,8 @@ bio: My research interests include natural language processing, efficient deep l
 interests:
   - Mathematical Economics.
   - Convex Optimisation and Variational Inequalities.
-  - Quantum Computing and Applications.
+  - Discrete Optimisation.
+  - Tensor Nets and Quantum-Inspired Algorithms.
 
 # Education to show in About widget
 education:
