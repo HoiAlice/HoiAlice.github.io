@@ -30,7 +30,7 @@ bio: My research interests include natural language processing, efficient deep l
 # Interests to show in About widget
 interests:
   - Mathematical Economics.
-  - Optimisation. Convex and not Very...
+  - Convex Optimisation and Variational Inequalities.
   - Quantum Computing and Applications.
 
 # Education to show in About widget
