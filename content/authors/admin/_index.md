@@ -25,13 +25,13 @@ organizations:
     url: https://www.frccsc.ru/frc/ccas
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include natural language processing, efficient deep learning and federated learning.
+bio: My research interests include economics, convex optimisation and it's bizzare variations. Also interested in discrete optimisation and quantum-inspired solvers.
 
 # Interests to show in About widget
 interests:
   - Mathematical Economics.
   - Convex Optimisation and Variational Inequalities.
-  - Discrete Optimisation.
+  - Combinatorial Optimisation.
   - Tensor Nets and Quantum-Inspired Algorithms.
 
 # Education to show in About widget
@@ -43,6 +43,9 @@ education:
     - course: BSc in Qunatum Computing and Simulation.
       institution: Moscow Institute of Physics and Technology.
       year: 2022
+    - course: Advanced Educational Scientific Center.
+      institution: Moscow State University.
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -117,6 +120,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Andrei Panferov is a research scientist at Yandex Research. His research interests include natural language processing, efficient deep learning and federated learning. He's currently a last year bachelor's sudent at Moscow Institute of Physics and Technology.
+My research interests include economics, convex optimisation and it's bizzare variations. Also interested in discrete optimisation and quantum-inspired solvers.
 {style="text-align: justify;"}
