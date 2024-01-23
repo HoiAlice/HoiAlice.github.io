@@ -39,7 +39,7 @@ sections:
           company_logo: eventum
           location: California, USA.
           date_start: '2023-06-01'
-          date_end: '2023-10-01'
+          date_end: '2023-11-01'
           description: |2-
             * Strategy work with quant trading.
 
