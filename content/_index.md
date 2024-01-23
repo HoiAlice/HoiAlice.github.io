@@ -31,7 +31,7 @@ sections:
           location: Moscow, Russia
           date_start: '2024-02-01'
           date_end: ''
-          description: А пока даже не знаю, в пнд поеду оформляться. 
+          description: Working on non-monetary inflation model.
 
         - title: QR Intern
           company: Eventum AI. Financial Markets Department.

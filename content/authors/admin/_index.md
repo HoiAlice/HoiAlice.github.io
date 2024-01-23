@@ -21,7 +21,7 @@ role: Всё ещё неактуальная информация
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ВЦ РАН(пока нет)
+  - name: ВЦ РАН(по совместительству)
     url: https://www.frccsc.ru/frc/ccas
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,22 +29,22 @@ bio: My research interests include economics, convex optimisation and it's bizza
 
 # Interests to show in About widget
 interests:
-  - Mathematical Economics.
-  - Convex Optimisation and Variational Inequalities.
-  - Combinatorial Optimisation.
-  - Tensor Nets and Quantum-Inspired Algorithms.
+  - Mathematical Economics
+  - Convex Optimisation and Variational Inequalities
+  - Combinatorial Optimisation
+  - Tensor Nets and Quantum-Inspired Algorithms
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Game Theory and Decision-Making Analysis. 
-      institution: Moscow Institute of Physics and Technology.
+    - course: MSc in Operations Research
+      institution: Moscow Institute of Physics and Technology
       year: 2024
-    - course: BSc in Qunatum Computing and Simulation.
-      institution: Moscow Institute of Physics and Technology.
+    - course: BSc in Qunatum Computing
+      institution: Moscow Institute of Physics and Technology
       year: 2022
-    - course: Advanced Educational Scientific Center.
-      institution: Moscow State University.
+    - course: Advanced Educational Scientific Center
+      institution: Moscow State University
       year: 2018
 
 # Skills
