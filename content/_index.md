@@ -38,7 +38,7 @@ sections:
           company_url: ''
           company_logo: eventum
           location: California, USA.
-          date_start: '2023-07-01'
+          date_start: '2023-06-01'
           date_end: '2023-10-01'
           description: |2-
             * Strategy work with quant trading.
@@ -49,7 +49,7 @@ sections:
           company_logo: RRI
           location: Moscow, Russia
           date_start: '2022-08-01'
-          date_end: '2023-06-01'
+          date_end: '2023-05-25'
           description: |2-
             * Modified BalCon migration heuristic for higher dimensions of constrains.
             * Derived few approaches for robust consolidation.
