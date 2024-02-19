@@ -32,7 +32,7 @@ interests:
   - Mathematical Economics
   - Convex Optimisation and Variational Inequalities
   - Combinatorial Optimisation
-  - Tensor Nets and Quantum-Inspired Algorithms
+  - Tensor Networks and Quantum-Inspired Algorithms
 
 # Education to show in About widget
 education:
