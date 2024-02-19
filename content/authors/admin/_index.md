@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Operations Research, Optimal Control and Optimisation
+    - course: MSc in Operations Research,  Optimal Control and Optimisation
       institution: Moscow Institute of Physics and Technology
       year: 2024
     - course: BSc in Qunatum Computing
