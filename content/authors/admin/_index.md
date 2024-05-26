@@ -21,7 +21,7 @@ role: still under construction
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ВЦ РАН(по совместительству)
+  - name: FRC CSC of RAS
     url: https://www.frccsc.ru/frc/ccas
 
 # Short bio (displayed in user profile at end of posts)
@@ -115,7 +115,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
