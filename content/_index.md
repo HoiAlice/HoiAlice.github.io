@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 
+        - title: Operation Research Scientist
           company: Federal Research Center Computer Science and Control, RAS
           company_url: https://www.frccsc.ru/
           company_logo: frc-ran
@@ -33,7 +33,7 @@ sections:
           date_end: ''
           description: Working on non-monetary inflation model.
 
-        - title: QR Intern
+        - title: Quantitative Research Intern
           company: Eventum AI. Financial Markets Department.
           company_url: ''
           company_logo: eventum
@@ -43,7 +43,7 @@ sections:
           description: |2-
             * Strategy work with quant trading.
 
-        - title: Optimisation Scientist (Cloud Consolidation)
+        - title: Operation Research Engineer (Cloud Consolidation)
           company: Huawei RRI
           company_url: 'https://career.huawei.ru/rri/en/'
           company_logo: RRI
@@ -51,8 +51,8 @@ sections:
           date_start: '2022-08-01'
           date_end: '2023-05-25'
           description: |2-
-            * Modified BalCon migration heuristic for higher dimensions of constrains.
-            * Derived few approaches for robust consolidation.
+            * Mathematical models for robust problems.
+            * Heuristics development and implementation.
         - title: Researcher
           company: Terra Quantum AG
           company_url: https://terraquantum.swiss/
@@ -61,9 +61,8 @@ sections:
           date_start: '2019-07-01'
           date_end: '2021-11-01'
           description: |2-
-            * Developed a ML based framework for algorithmic cooling and quantum computations.
-            * Investigated the application of tensor networks to combinatorial optimisation.
-            * Implemented an amplitude maximum estimation algorithm for pure states via tensor trains.
+            * Software for experiment analysis & optimisation.
+            * Software for simulation and LDE solving..
     design:
       columns: '1'
 
