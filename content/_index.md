@@ -66,9 +66,6 @@ sections:
     design:
       columns: '1'
 
-  - block: publications
-
-
 #  - block: accomplishments
 #    content:
 #      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
