@@ -92,7 +92,10 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Posts
+      title: Publications
+      description: 
+        test
+
 #  - block: collection
 #    id: posts
 #    content:
