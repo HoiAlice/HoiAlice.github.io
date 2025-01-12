@@ -24,20 +24,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Operation Research Scientist
+        - title: Research Scientist
           company: Federal Research Center Computer Science and Control, RAS
           company_url: https://www.frccsc.ru/
           company_logo: frc-ran
           location: Moscow, Russia
           date_start: '2024-02-01'
           date_end: ''
-          description: Working on non-monetary inflation model.
+          description: |1-
+            * Working on non-monetary inflation model.
 
         - title: Quantitative Research Intern
           company: Eventum AI. Financial Markets Department.
           company_url: ''
           company_logo: eventum
-          location: California, USA.
+          location: remote
           date_start: '2023-06-01'
           date_end: '2023-11-01'
           description: |2-
@@ -87,33 +88,35 @@ sections:
 #          title: International Physics Olympiad
 #    design:
 #      columns: '2'
-#  - block: collection
-#    id: posts
-#    content:
-#      title: Recent Posts
-#      subtitle: ''
-#      text: ''
-#      # Choose how many pages you would like to display (0 = all pages)
-#      count: 5
-#      # Filter on criteria
-#      filters:
-#        folders:
-#          - post
-#        author: ""
-#        category: ""
-#        tag: ""
-#        exclude_featured: false
-#        exclude_future: false
-#        exclude_past: false
-#        publication_type: ""
-#      # Choose how many pages you would like to offset by
-#      offset: 0
-#      # Page order: descending (desc) or ascending (asc) date.
-#      order: desc
-#    design:
-#      # Choose a layout view
-#      view: compact
-#      columns: '2'
+
+  - block: collection
+    id: posts
+    content:
+      title: Recent Posts
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
+
 #  - block: portfolio
 #    id: projects
 #    content:
