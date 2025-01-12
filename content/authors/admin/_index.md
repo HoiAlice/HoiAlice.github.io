@@ -37,15 +37,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Operations Research
+      institution: Moscow Institute of Physics and Technology
+      year: 2027
+    - course: AI in Applied Science
+      institution: Yandex School of Data Analysis
+      year: 2026
     - course: MSc in Operations Research
       institution: Moscow Institute of Physics and Technology
       year: 2024
     - course: BSc in Qunatum Computing
       institution: Moscow Institute of Physics and Technology
       year: 2022
-    - course: Advanced Educational Scientific Center
-      institution: Moscow State University
-      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
