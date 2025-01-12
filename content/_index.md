@@ -62,9 +62,12 @@ sections:
           date_end: '2021-11-01'
           description: |2-
             * Software for experiment analysis & optimisation.
-            * Software for simulation and LDE solving..
+            * Software for simulation and LDE solving.
     design:
       columns: '1'
+
+  - block: publications
+
 
 #  - block: accomplishments
 #    content:
