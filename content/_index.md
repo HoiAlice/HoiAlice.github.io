@@ -32,7 +32,7 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |1-
-            * Working on non-monetary inflation model.
+            * Lavrin O.I, Existence and Uniqueness of Competitive Equilibrium in Input-Output Models with Neoclassical Production Functions, Lobachevskii Journal of Mathematics, accepted for publication at 2025
 
         - title: Quantitative Research Intern
           company: Eventum AI. Financial Markets Department.
@@ -88,14 +88,6 @@ sections:
 #          title: International Physics Olympiad
 #    design:
 #      columns: '2'
-
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      description: 
-        test
-
 #  - block: collection
 #    id: posts
 #    content:
