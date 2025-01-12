@@ -32,7 +32,8 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |1-
-            * Lavrin O.I, Existence and Uniqueness of Competitive Equilibrium in Input-Output Models with Neoclassical Production Functions, Lobachevskii Journal of Mathematics, accepted for publication at 2025
+            * Lavrin O.I, Existence and Uniqueness of Competitive Equilibrium in Input-Output Models 
+            with Neoclassical Production Functions, Lobachevskii Journal of Mathematics, accepted for publication at 2025
 
         - title: Quantitative Research Intern
           company: Eventum AI. Financial Markets Department.
